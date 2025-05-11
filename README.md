@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi 
+I'm macchiato, I barely know anything about code.
 
 <!--
 **pepsicarrt/pepsicarrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
