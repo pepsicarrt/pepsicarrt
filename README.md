@@ -1,5 +1,7 @@
 ## Hi 
 I'm macchiato, I barely know anything about code.
+My discord is **@pepsicart.** Feel free to send a dm relating to a project if you want
+
 
 <!--
 **pepsicarrt/pepsicarrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
