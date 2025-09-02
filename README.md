@@ -1,5 +1,6 @@
 ## Hi 
 I'm macchiato, I barely know anything about code.
+
 My discord is **@pepsicart.** Feel free to send a dm relating to a project if you want
 
 
