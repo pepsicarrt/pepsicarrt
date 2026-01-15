@@ -1,5 +1,5 @@
 ## Hi 
-I'm macchiato, I barely know anything about code.
+I'm macchiato, I am currently learning HTML, Python, and eventually Lua
 
 My discord is **@pepsicart.** Feel free to send a dm relating to a project if you want
 
