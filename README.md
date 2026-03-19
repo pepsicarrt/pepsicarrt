@@ -1,20 +1,10 @@
-## Hi 
-I'm macchiato, I am currently learning HTML, Python, and eventually Lua
+## hi
+im mori
 
-My discord is **@pepsicart.** Feel free to send a dm relating to a project if you want
+i make things
 
+i am not that great at making those things
 
-<!--
-**pepsicarrt/pepsicarrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i kinda know python, so that'll explain why most of these things are in python
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+uhhhh idk what else to put here
